@@ -15,6 +15,16 @@ Chosen Stations:
 	- St. Stephen's Green East
 
 	- Phibsborough Road
+	
+Division of work:
+
+	- Jack:
+	
+		- Wrangling of data, structuring of github
+	
+	- Caitlín
+	
+		- 
 
 # Workflow:
 
