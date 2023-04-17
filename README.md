@@ -10,21 +10,22 @@ Chosen Tasks:
 
 Chosen Stations:
 
-	- Charlemont Place
-
-	- St. Stephen's Green East
-
 	- Phibsborough Road
+
+	- Merrion Square South
+
+	- Royal Hospital
 	
 Division of work:
 
 	- Jack:
 	
 		- Wrangling of data, structuring of github
+		- Time series visualisation
 	
 	- Caitlín
 	
-		- 
+		-  Kmeans clustering
 
 # Workflow:
 
@@ -32,7 +33,7 @@ Data Processing:
 	
 	- Download data and wrangle it to relevant columns and stations (DONE)
 
-	- Determine the 'bike usage' feature which will be our outcome variable
+	- Determine the 'bike usage' feature which will be our outcome variable (DONE)
 
 	- Examine post-2020 data for the impact of the pandemic
 
@@ -57,7 +58,7 @@ Compilation:
 
 	- Write report
 
-		- Justification for station selection
+		- Justification for station selection (Kmeans)
 
 		- Justification of model features and algorithm
 
@@ -65,4 +66,4 @@ Compilation:
 
 Bonus:
 
-	- Gather geospatial data on socio-economic conditions in Charlemont and Phibsborough
+	- Add measures of covid restrictions as a model feature
