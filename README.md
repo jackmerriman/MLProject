@@ -20,12 +20,16 @@ Division of work:
 
 	- Jack:
 	
-		- Wrangling of data, structuring of github
-		- Time series visualisation
+		- Data pre-processing		
+		- Summary visualisations
+		- Task 1 visualisation and interpretation
+		- Task 2 forecasting and visualisation
 	
 	- Caitlín
 	
-		-  Kmeans clustering
+		- Kmeans clustering
+		- Task 1 modelling
+		- Task 2 modelling and testing
 
 # Workflow:
 
@@ -41,16 +45,12 @@ Model:
 
 	- Determine model features for counterfactual forecast
 
-	- Test algorithms on smaller sets
-
 	- Split data into training and testing sets
 
 
 Data Visualisation:
 
 	- Create visualisations for pandemic impact
-
-	- Create visualisations for model assessment
 
 	- Create visualisation to illustrate model predictions
 
@@ -60,9 +60,11 @@ Compilation:
 
 		- Justification for station selection (Kmeans)
 
-		- Justification of model features and algorithm
+		- Data Pre-processing
 
-		- Interpretation of results
+		- Task 1
+		
+		- Task 2
 
 Bonus:
 
