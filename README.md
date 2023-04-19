@@ -65,7 +65,3 @@ Compilation:
 		- Task 1
 		
 		- Task 2
-
-Bonus:
-
-	- Add measures of covid restrictions as a model feature

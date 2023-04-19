@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  18 APR 2023 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  19 APR 2023 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -742,12 +742,12 @@ LaTeX Info: Redefining \BHBI on input line 130.
 * \topmargin=0.0pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -791,50 +791,91 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.47998pt on input line 70.
+Package xypdf Info: Line width: 0.43799pt on input line 70.
 \c@lstlisting=\count335
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
 <kmeans.png, id=4, 667.49374pt x 397.485pt>
 File: kmeans.png Graphic file (type png)
 <use kmeans.png>
 Package pdftex.def Info: kmeans.png  used on input line 83.
-(pdftex.def)             Requested size: 469.75502pt x 279.74174pt.
+(pdftex.def)             Requested size: 284.52756pt x 169.43532pt.
+<timeseries.png, id=6, 1177.39874pt x 388.45125pt>
+File: timeseries.png Graphic file (type png)
+<use timeseries.png>
+Package pdftex.def Info: timeseries.png  used on input line 96.
+(pdftex.def)             Requested size: 469.75502pt x 154.9806pt.
+ [1
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 83--84
-[][] 
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./kmean
+s.png>]
+<comparison.png, id=20, 1177.39874pt x 388.45125pt>
+File: comparison.png Graphic file (type png)
+<use comparison.png>
+Package pdftex.def Info: comparison.png  used on input line 107.
+(pdftex.def)             Requested size: 469.75502pt x 154.9806pt.
+
+[2 <./timeseries.png> <./comparison.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
  []
 
-[1
+File: comparison.png Graphic file (type png)
+<use comparison.png>
+Package pdftex.def Info: comparison.png  used on input line 120.
+(pdftex.def)             Requested size: 469.75502pt x 154.9806pt.
+[3] (./Report.bbl)
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2 <./kmeans.png>] (./Report.aux) ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Overfull \hbox (42.91563pt too wide) in paragraph at lines 135--136
+[]\OT1/cmr/m/n/10.95 Coding of clus-ter-ing al-go-rithms, cod-ing of lin-ear re
+-gres-sion mod-els, and model cross-validation/evaluation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[4] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
- 19885 strings out of 478268
- 367666 string characters out of 5846347
- 678738 words of memory out of 5000000
- 37720 multiletter control sequences out of 15000+600000
- 479511 words of font info for 71 fonts, out of 8000000 for 9000
+ 19898 strings out of 478268
+ 367872 string characters out of 5846347
+ 683997 words of memory out of 5000000
+ 37728 multiletter control sequences out of 15000+600000
+ 476783 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,89p,3236b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb>
-Output written on Report.pdf (2 pages, 78014 bytes).
+ 84i,7n,89p,3236b,317s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
+10.pfb>
+Output written on Report.pdf (4 pages, 230350 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

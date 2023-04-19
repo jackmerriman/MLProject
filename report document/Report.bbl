@@ -1,0 +1,61 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+OBaoighill%
+\ \BBA {} Claffey%
+}{%
+OBaoighill%
+\ \BBA {} Claffey%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+traffic}
+\APACinsertmetastar {%
+traffic}%
+\begin{APACrefauthors}%
+OBaoighill, E.%
+\BCBT {}\ \BBA {} Claffey, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{April}{}.
+\newblock
+\APACrefbtitle {Measuring the impact of the lockdown on Irish traffic.}
+  {Measuring the impact of the lockdown on irish traffic.}
+\newblock
+\APACaddressPublisher{Ireland}{Milliman Group}.
+\newblock
+\begin{APACrefURL}
+  \url{https://us.milliman.com/-/media/milliman/pdfs/articles/impact-of-the-lockdown-on-traffic.ashx}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Parkin%
+, Wardman%
+\BCBL {}\ \BBA {} Page%
+}{%
+Parkin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+risk}
+\APACinsertmetastar {%
+risk}%
+\begin{APACrefauthors}%
+Parkin, J.%
+, Wardman, M.%
+\BCBL {}\ \BBA {} Page, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Models of perceived cycling risk and route
+  acceptability} {Models of perceived cycling risk and route
+  acceptability}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Accident Analysis and Prevention}{39}{2}{364--371}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
